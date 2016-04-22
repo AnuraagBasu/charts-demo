@@ -11,3 +11,9 @@
     display: inline-block;
     margin-left: 40px;
 }
+
+.gauge-input-container label {
+    text-transform: capitalize;
+    font-weight: 200;
+    font-size: 12px;
+}
