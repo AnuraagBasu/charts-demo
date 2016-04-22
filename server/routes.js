@@ -6,7 +6,7 @@ var config = require("./config/environment");
 
 module.exports = function (app) {
 
-    app.route('/*')
+    app.route('/:url(countries|states|cities|gauge-chart)')
         .get(function (req, res) {
             res.sendfile(app.get('appPath') + '/index.html');
         });
