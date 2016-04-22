@@ -1,0 +1,63 @@
+<div>
+    <div ng-if="main.loaded">
+        <div fusioncharts
+             width="600"
+             height="400"
+             type="pie3d"
+             dataSource="{{main.countries}}" events="main.countryEvents">
+        </div>
+    </div>
+
+    <div ng-if="main.loaded">
+        <div fusioncharts
+             width="600"
+             height="400"
+             type="pie3d"
+             dataSource="{{main.states}}" events="main.stateEvents">
+        </div>
+    </div>
+
+    <div ng-if="main.loaded">
+        <div fusioncharts
+             width="600"
+             height="400"
+             type="pie3d"
+             dataSource="{{main.cities}}" >
+        </div>
+    </div>
+
+    <div ng-if="main.showStateData">
+        <div fusioncharts
+             width="600"
+             height="400"
+             type="pie3d"
+             dataSource="{{main.statesOfSelectedCountry}}" events="main.stateEvents">
+        </div>
+    </div>
+
+    <div ng-if="main.showCitiesData">
+        <div fusioncharts
+             width="600"
+             height="400"
+             type="pie3d"
+             dataSource="{{main.citiesOfSelectedState}}" events="main.cityEvents">
+        </div>
+    </div>
+
+    <div ng-if="main.showTable">
+        <table class="table table-bordered table-hover">
+            <tr>
+                <th>Country</th>
+                <th>State</th>
+                <th>City</th>
+                <th>Amount</th>
+            </tr>
+            <tr ng-repeat="cityToShow in main.cityToShowInTable">
+               <td>{{::cityToShow.country}}</td>
+               <td>{{::cityToShow.state}}</td>
+               <td>{{::cityToShow.city}}</td>
+               <td>{{::cityToShow.amount}}</td>
+            </tr>
+        </table>
+    </div>
+</div>

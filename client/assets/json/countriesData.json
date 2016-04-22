@@ -1,0 +1,752 @@
+[
+  {
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "amount": 1107
+  },
+  {
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "amount": 1251
+  },
+  {
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Nashik",
+    "amount": 1303
+  },
+  {
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Nagpur",
+    "amount": 1155
+  },
+  {
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Solapur",
+    "amount": 1315
+  },
+  {
+    "country": "India",
+    "state": "Bihar",
+    "city": "Patna",
+    "amount": 1451
+  },
+  {
+    "country": "India",
+    "state": "Bihar",
+    "city": "Muzzafarpur",
+    "amount": 1352
+  },
+  {
+    "country": "India",
+    "state": "Bihar",
+    "city": "Dharbhanga",
+    "amount": 1058
+  },
+  {
+    "country": "India",
+    "state": "Bihar",
+    "city": "Arrah",
+    "amount": 1419
+  },
+  {
+    "country": "India",
+    "state": "Bihar",
+    "city": "Nalanda",
+    "amount": 1078
+  },
+  {
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "amount": 1487
+  },
+  {
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "amount": 1363
+  },
+  {
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Allahabad",
+    "amount": 1365
+  },
+  {
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Kanpur",
+    "amount": 1336
+  },
+  {
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Kalpi",
+    "amount": 1420
+  },
+  {
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "amount": 1086
+  },
+  {
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Gandhi Nagar",
+    "amount": 1210
+  },
+  {
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Surat",
+    "amount": 1036
+  },
+  {
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Rajkot",
+    "amount": 1368
+  },
+  {
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Vadodara",
+    "amount": 1079
+  },
+  {
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "amount": 1419
+  },
+  {
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Udaipur",
+    "amount": 1003
+  },
+  {
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Barmer",
+    "amount": 1211
+  },
+  {
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Dholpur",
+    "amount": 1259
+  },
+  {
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "amount": 1080
+  },
+  {
+    "country": "USA",
+    "state": "Alabama",
+    "city": "Montgomery",
+    "amount": 1059
+  },
+  {
+    "country": "USA",
+    "state": "Alabama",
+    "city": "Birmingham",
+    "amount": 1093
+  },
+  {
+    "country": "USA",
+    "state": "Alabama",
+    "city": "Huntsville",
+    "amount": 1176
+  },
+  {
+    "country": "USA",
+    "state": "Alabama",
+    "city": "Mobile",
+    "amount": 1284
+  },
+  {
+    "country": "USA",
+    "state": "Alabama",
+    "city": "Tuscaloosa",
+    "amount": 1463
+  },
+  {
+    "country": "USA",
+    "state": "Arizona",
+    "city": "Phoenix",
+    "amount": 1415
+  },
+  {
+    "country": "USA",
+    "state": "Arizona",
+    "city": "Tuscon",
+    "amount": 1169
+  },
+  {
+    "country": "USA",
+    "state": "Arizona",
+    "city": "Yuma",
+    "amount": 1171
+  },
+  {
+    "country": "USA",
+    "state": "Arizona",
+    "city": "Flagstaff",
+    "amount": 1426
+  },
+  {
+    "country": "USA",
+    "state": "Arizona",
+    "city": "Prescott",
+    "amount": 1343
+  },
+  {
+    "country": "USA",
+    "state": "California",
+    "city": "Sacramento",
+    "amount": 1213
+  },
+  {
+    "country": "USA",
+    "state": "California",
+    "city": "Los Angeles",
+    "amount": 1452
+  },
+  {
+    "country": "USA",
+    "state": "California",
+    "city": "San Jose",
+    "amount": 1169
+  },
+  {
+    "country": "USA",
+    "state": "California",
+    "city": "San Francisco",
+    "amount": 1228
+  },
+  {
+    "country": "USA",
+    "state": "California",
+    "city": "San Diego",
+    "amount": 1477
+  },
+  {
+    "country": "USA",
+    "state": "New York",
+    "city": "Albany",
+    "amount": 1328
+  },
+  {
+    "country": "USA",
+    "state": "New York",
+    "city": "New York",
+    "amount": 1227
+  },
+  {
+    "country": "USA",
+    "state": "New York",
+    "city": "Binghamton",
+    "amount": 1000
+  },
+  {
+    "country": "USA",
+    "state": "New York",
+    "city": "Buffalo",
+    "amount": 1104
+  },
+  {
+    "country": "USA",
+    "state": "New York",
+    "city": "Long Beach",
+    "amount": 1076
+  },
+  {
+    "country": "USA",
+    "state": "Florida",
+    "city": "Jacksonville",
+    "amount": 1480
+  },
+  {
+    "country": "USA",
+    "state": "Florida",
+    "city": "Miami",
+    "amount": 1308
+  },
+  {
+    "country": "USA",
+    "state": "Florida",
+    "city": "Orlando",
+    "amount": 1384
+  },
+  {
+    "country": "USA",
+    "state": "Florida",
+    "city": "Pensacola",
+    "amount": 1453
+  },
+  {
+    "country": "USA",
+    "state": "Florida",
+    "city": "Tallahassee",
+    "amount": 1146
+  },
+  {
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Calgary",
+    "amount": 1028
+  },
+  {
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Edmonton",
+    "amount": 1210
+  },
+  {
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Red Deer",
+    "amount": 1220
+  },
+  {
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Lethbridge",
+    "amount": 1454
+  },
+  {
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "St. Albert",
+    "amount": 1371
+  },
+  {
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Prince Rupert",
+    "amount": 1191
+  },
+  {
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Tofino",
+    "amount": 1448
+  },
+  {
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Nanaimo",
+    "amount": 1015
+  },
+  {
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Victoria",
+    "amount": 1448
+  },
+  {
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Vancouver",
+    "amount": 1355
+  },
+  {
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Halifax",
+    "amount": 1116
+  },
+  {
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Sydney",
+    "amount": 1039
+  },
+  {
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Kentville",
+    "amount": 1384
+  },
+  {
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Truro",
+    "amount": 1143
+  },
+  {
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Liverpool",
+    "amount": 1280
+  },
+  {
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "amount": 1067
+  },
+  {
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Ottawa",
+    "amount": 1162
+  },
+  {
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Mississauga",
+    "amount": 1100
+  },
+  {
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "London",
+    "amount": 1048
+  },
+  {
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Hamilton",
+    "amount": 1473
+  },
+  {
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Montreal",
+    "amount": 1052
+  },
+  {
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Gatineau",
+    "amount": 1384
+  },
+  {
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Sherbrooke",
+    "amount": 1309
+  },
+  {
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Saguenay",
+    "amount": 1020
+  },
+  {
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Matagami",
+    "amount": 1375
+  },
+  {
+    "country": "UK",
+    "state": "England",
+    "city": "London",
+    "amount": 1479
+  },
+  {
+    "country": "UK",
+    "state": "England",
+    "city": "Liverpool",
+    "amount": 1084
+  },
+  {
+    "country": "UK",
+    "state": "England",
+    "city": "Birmingham",
+    "amount": 1097
+  },
+  {
+    "country": "UK",
+    "state": "England",
+    "city": "Nottingham",
+    "amount": 1013
+  },
+  {
+    "country": "UK",
+    "state": "England",
+    "city": "Manchester",
+    "amount": 1304
+  },
+  {
+    "country": "UK",
+    "state": "Ireland",
+    "city": "Carlow",
+    "amount": 1315
+  },
+  {
+    "country": "UK",
+    "state": "Ireland",
+    "city": "Dublin",
+    "amount": 1021
+  },
+  {
+    "country": "UK",
+    "state": "Ireland",
+    "city": "Cavan",
+    "amount": 1030
+  },
+  {
+    "country": "UK",
+    "state": "Ireland",
+    "city": "Castlebar",
+    "amount": 1047
+  },
+  {
+    "country": "UK",
+    "state": "Ireland",
+    "city": "Galway",
+    "amount": 1185
+  },
+  {
+    "country": "UK",
+    "state": "Northern Ireland",
+    "city": "Bangor",
+    "amount": 1033
+  },
+  {
+    "country": "UK",
+    "state": "Northern Ireland",
+    "city": "Derry",
+    "amount": 1099
+  },
+  {
+    "country": "UK",
+    "state": "Northern Ireland",
+    "city": "Belfast",
+    "amount": 1197
+  },
+  {
+    "country": "UK",
+    "state": "Northern Ireland",
+    "city": "Craigavon",
+    "amount": 1300
+  },
+  {
+    "country": "UK",
+    "state": "Northern Ireland",
+    "city": "Castlereagh",
+    "amount": 1270
+  },
+  {
+    "country": "UK",
+    "state": "Wales",
+    "city": "Cardiff",
+    "amount": 1005
+  },
+  {
+    "country": "UK",
+    "state": "Wales",
+    "city": "Rhyl",
+    "amount": 1428
+  },
+  {
+    "country": "UK",
+    "state": "Wales",
+    "city": "Wrexham",
+    "amount": 1198
+  },
+  {
+    "country": "UK",
+    "state": "Wales",
+    "city": "Swansea",
+    "amount": 1232
+  },
+  {
+    "country": "UK",
+    "state": "Wales",
+    "city": "Newport",
+    "amount": 1145
+  },
+  {
+    "country": "UK",
+    "state": "Scotland",
+    "city": "Aberdeen",
+    "amount": 1201
+  },
+  {
+    "country": "UK",
+    "state": "Scotland",
+    "city": "Cumbernauld",
+    "amount": 1496
+  },
+  {
+    "country": "UK",
+    "state": "Scotland",
+    "city": "East Kilbride",
+    "amount": 1462
+  },
+  {
+    "country": "UK",
+    "state": "Scotland",
+    "city": "Edinburgh",
+    "amount": 1013
+  },
+  {
+    "country": "UK",
+    "state": "Scotland",
+    "city": "Glasgow",
+    "amount": 1156
+  },
+  {
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "amount": 1316
+  },
+  {
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Liverpool",
+    "amount": 1127
+  },
+  {
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Newcastle",
+    "amount": 1258
+  },
+  {
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Wollongong",
+    "amount": 1472
+  },
+  {
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Bathurst",
+    "amount": 1458
+  },
+  {
+    "country": "Australia",
+    "state": "Queensland",
+    "city": "Brisbane",
+    "amount": 1049
+  },
+  {
+    "country": "Australia",
+    "state": "Queensland",
+    "city": "Cairns",
+    "amount": 1293
+  },
+  {
+    "country": "Australia",
+    "state": "Queensland",
+    "city": "Gold Coast",
+    "amount": 1400
+  },
+  {
+    "country": "Australia",
+    "state": "Queensland",
+    "city": "Rockhampton",
+    "amount": 1031
+  },
+  {
+    "country": "Australia",
+    "state": "Queensland",
+    "city": "Maryborough",
+    "amount": 1169
+  },
+  {
+    "country": "Australia",
+    "state": "South Australia",
+    "city": "Adelaide",
+    "amount": 1444
+  },
+  {
+    "country": "Australia",
+    "state": "South Australia",
+    "city": "Mount Barker",
+    "amount": 1072
+  },
+  {
+    "country": "Australia",
+    "state": "South Australia",
+    "city": "Victor Harbor",
+    "amount": 1377
+  },
+  {
+    "country": "Australia",
+    "state": "South Australia",
+    "city": "Port Lincoln",
+    "amount": 1275
+  },
+  {
+    "country": "Australia",
+    "state": "South Australia",
+    "city": "Whyalla",
+    "amount": 1449
+  },
+  {
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Melbourne",
+    "amount": 1433
+  },
+  {
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Hamilton",
+    "amount": 1300
+  },
+  {
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Melton",
+    "amount": 1396
+  },
+  {
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Horsham",
+    "amount": 1500
+  },
+  {
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Franskston",
+    "amount": 1045
+  },
+  {
+    "country": "Australia",
+    "state": "Western Australia",
+    "city": "Perth",
+    "amount": 1154
+  },
+  {
+    "country": "Australia",
+    "state": "Western Australia",
+    "city": "Albany",
+    "amount": 1243
+  },
+  {
+    "country": "Australia",
+    "state": "Western Australia",
+    "city": "Rockingham",
+    "amount": 1438
+  },
+  {
+    "country": "Australia",
+    "state": "Western Australia",
+    "city": "Kalgoorlie",
+    "amount": 1320
+  },
+  {
+    "country": "Australia",
+    "state": "Western Australia",
+    "city": "Busselton",
+    "amount": 1125
+  }
+]

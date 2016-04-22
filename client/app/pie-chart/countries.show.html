@@ -1,0 +1,53 @@
+<div class="row">
+    <div class="col-lg-12 chart-container">
+        <div class="top-links">
+            <a ui-sref="pieChart.countries()">Countries</a>
+            <a ui-sref="pieChart.states()">States</a>
+            <a ui-sref="pieChart.cities()">Cities</a>
+        </div>
+
+        <div class="countries-chart-container" ng-if="country.loaded">
+            <div fusioncharts
+                 width="600"
+                 height="400"
+                 type="pie3d"
+                 dataSource="{{country.countries}}" events="country.countryEvents">
+            </div>
+        </div>
+
+        <div class="calc-state-chart-container" ng-if="country.showStateData">
+            <div fusioncharts
+                 width="600"
+                 height="400"
+                 type="pie3d"
+                 dataSource="{{country.statesOfSelectedCountry}}" events="country.stateEvents">
+            </div>
+        </div>
+
+        <div class="calc-cities-chart-container" ng-if="country.showCitiesData">
+            <div fusioncharts
+                 width="600"
+                 height="400"
+                 type="pie3d"
+                 dataSource="{{country.citiesOfSelectedState}}" events="country.cityEvents">
+            </div>
+        </div>
+
+        <div class="table-container" ng-if="country.showTable">
+            <table class="table table-bordered table-hover">
+                <tr>
+                    <th>Country</th>
+                    <th>State</th>
+                    <th>City</th>
+                    <th>Amount</th>
+                </tr>
+                <tr ng-repeat="cityToShow in country.cityToShowInTable">
+                    <td>{{::cityToShow.country}}</td>
+                    <td>{{::cityToShow.state}}</td>
+                    <td>{{::cityToShow.city}}</td>
+                    <td>{{::cityToShow.amount}}</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,55 @@
+.top-links {
+    display: block;
+    text-align: center;
+    margin: 40px auto;
+}
+
+.top-links a {
+    width: 100px;
+    background-color: #2196F3;
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.countries-chart-container {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.calc-state-chart-container {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.calc-cities-chart-container {
+    display: block;
+    text-align: center;
+}
+
+.table-container {
+    display: block;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.chart-container>div {
+    margin-top: 30px;
+}
+
+.state-chart-container {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.calc-cities-chart-container {
+    vertical-align: top;
+    display: inline-block;
+}
+
+.city-chart-container {
+    display: block;
+    text-align: center;
+}

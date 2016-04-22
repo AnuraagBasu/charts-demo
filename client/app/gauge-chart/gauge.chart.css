@@ -1,0 +1,13 @@
+.container {
+    margin: 40px auto;
+}
+
+.gauge-container {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.gauge-input-container {
+    display: inline-block;
+    margin-left: 40px;
+}
